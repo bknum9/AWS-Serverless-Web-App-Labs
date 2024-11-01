@@ -1,4 +1,5 @@
 # AWS-Serverless-Web-App-Labs
+<h2>Lab 1</h2>
 <img width="1434" alt="WebApp Lab 1-1" src="https://github.com/user-attachments/assets/5cf1ae31-402f-418a-8c50-dfb120cd8aba">
 1 - Using Cloudshell we are cloning a git repository and creating a table in DynamoDB from the repository 
 <img width="1434" alt="WebApp Lab 1-2" src="https://github.com/user-attachments/assets/d6a43ee8-3154-40af-a556-ac889cb5d7fd">
@@ -15,3 +16,14 @@
 7 - Copying html and jpg files from git repository to S3 bucket
 <img width="1434" alt="WebApp Lab 1-8" src="https://github.com/user-attachments/assets/a741504a-7a35-4ec9-93e1-1ef5168bb919">
 8 - Ensuring that web application is successfully running
+<h2>Developing a Serverless Application Using AWS Lambda, API Gateway, and DynamoDB</h2>
+<img width="1438" alt="c1" src="https://github.com/user-attachments/assets/4a8a8690-64e1-4ba8-acb1-ebbc31d2bb5f">
+1. Creating DynamoDB table 
+<img width="1438" alt="c2" src="https://github.com/user-attachments/assets/1aa0efdd-17d8-4742-a276-e48423e3b423">
+2. Creating Lambda function named PutQuotes 
+<img width="1438" alt="c3" src="https://github.com/user-attachments/assets/d1c588f6-37ed-447d-84cc-1ac8bee8d435">
+3. Creating Lambda function named GetQuotes
+<img width="1438" alt="c4" src="https://github.com/user-attachments/assets/79f4898e-14c7-4ec4-8acb-08bf2a78d096">
+4. Creating Regional REST API
+<img width="1438" alt="c5" src="https://github.com/user-attachments/assets/7c7e720d-ecc1-446d-be9b-773f405bac25">
+5. Testing API
